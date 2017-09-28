@@ -14,7 +14,7 @@ class SushiFish extends Fish {
     }
 
   cook () : void { 
-      console.log('You don\'t cook a sushi fish!')
+      console.log('Let Me Cook something')
   }
 
 }
